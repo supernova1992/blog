@@ -2,6 +2,7 @@
 //
 // VARIABLES
 //
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
 
 // Colors
 $blue: #4183C4;
@@ -18,6 +19,7 @@ $white: #fff;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$fira: 'Fira Code', monospace;
 
 // Mobile breakpoints
 @mixin mobile {
