@@ -18,9 +18,9 @@ html {
 }
 
 body {
-	background: $white;
+	background: $darkerGray;
   font: 18px/1.4 $fira;
-  color: $darkGray;
+  color: $white;
 }
 
 .container {
@@ -32,7 +32,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $fira;
-  color: $darkerGray;
+  color: $white;
   font-weight: bold;
 
   line-height: 1.7;
@@ -192,7 +192,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: $white;
   cursor: pointer;
   font-family: $fira;
   font-weight: 300;
