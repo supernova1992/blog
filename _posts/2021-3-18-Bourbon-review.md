@@ -31,24 +31,24 @@ A classic, balanced bourbon. A bit heavy on the leather and wood, but this one r
 
 Rating Scale:
 
-0 | Unscored | New Make Spirit or Personal Selection
 
-1 | Disgusting | So bad I poured it out.
 
-2 | Poor | I wouldn't consume by choice.
+1. Disgusting; So bad I poured it out.
 
-3 | Bad | Multiple flaws.
+2. Poor; I wouldn't consume by choice.
 
-4 | Sub-par | Not bad, but many things I'd rather have.
+3. Bad; Multiple flaws.
 
-5 | Good | Good, just fine.
+4. Sub-par; Not bad, but many things I'd rather have.
 
-6 | Very Good | A cut above.
+5. Good; Good, just fine.
 
-7 | Great | Well above average
+6. Very Good; A cut above.
 
-8 | Excellent | Really quite exceptional.
+7. Great; Well above average
 
-9 | Incredible | An all time favorite
+8. Excellent; Really quite exceptional.
 
-10 | Perfect | Perfect
+9. Incredible; An all time favorite
+
+10. Perfect; Perfect
